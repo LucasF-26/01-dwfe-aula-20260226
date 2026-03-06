@@ -12,8 +12,12 @@ body{
     
 }
 header{
-    border: .1rem solid red;
+    /* border: .1rem solid red; */
     height: 2rem;
+    background-color: black;
+    color: #ccc;
+   
+
 
 }
 
@@ -31,6 +35,6 @@ main{
     display: flex 1;
 }
 footer{
-    border: 1rem solid green;
+    /* border: 1rem solid green; */
     height: 1rem;
 }
