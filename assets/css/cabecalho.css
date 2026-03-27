@@ -10,3 +10,9 @@ header {
     align-items: center;
     padding: .5rem;
 }
+
+.menu-hamburguer{
+    border: .1rem solid red;
+    border-radius: 100%;
+}
+

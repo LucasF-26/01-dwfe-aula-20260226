@@ -1,0 +1,26 @@
+nav {
+    /* border: .1rem solid orangered; */
+    width: 15rem;
+    background-color: #eee;
+    padding: 0.5rem;
+}
+a {
+text-decoration: 1rem;
+}
+
+li{
+    margin-bottom: 1rem;
+}
+.opcao{
+    display: flex;
+    border-radius: 0.5rem;
+    padding: 0.6rem;
+    background-color: white;
+    color: #5e5e5e;
+}
+.opcao:hover {
+    background-color: #ccc;
+    color: black;
+    box-shadow: 0.3rem 0.3rem 0.3rem 0.01rem #ddd;
+    border: 0.1rem solid #ddd;
+}
